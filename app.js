@@ -17,7 +17,7 @@ app.post("/", function (req, res) {
   //console.log(req.body.city);
 
   const query = req.body.city;
-  const appid = "5d3a29ba7daa45d7afe88768e240fd59";
+  const appid = "THE API KEY GENERATED, USE THAT HERE";
   const units = "metric";
 
   const url =
